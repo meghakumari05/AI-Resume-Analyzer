@@ -7,11 +7,11 @@ AI-powered tool to analyze and improve resumes with smart feedback and scoring.
  
  AI-Powered Analysis – Evaluates skills, keywords, and industry relevance.
  
- Match Scoring – Analyze resumes and give scores .
+ Match Scoring – Generates an overall score based on AI .
  
- Feedback & Suggestions – Provides improvement tips for better chances.
+ Feedback & Suggestions – Provides tips to improve resume quality.
  
- Dashboard/Report – Generates structured insights for easy review.
+ Report Generation – Presents results in a clear and structured format.
 
 ## Techmologies Used
 React / Next.js
