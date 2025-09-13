@@ -14,6 +14,6 @@ AI-powered tool to analyze and improve resumes with smart feedback and scoring.
  Report Generation – Presents results in a clear and structured format.
 
 ## Techmologies Used
-React / Next.js
+React 
 React Router
 Puter.js
