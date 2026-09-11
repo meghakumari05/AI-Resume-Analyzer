@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+<img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/4822aecf-7ea0-46ed-9ca7-59a437e4cef5" /># AI Resume Analyzer
 AI-powered tool to analyze and improve resumes with smart feedback and scoring.
 
 
@@ -17,3 +17,8 @@ AI-powered tool to analyze and improve resumes with smart feedback and scoring.
 React 
 React Router
 Puter.js
+
+
+## Click the link for live demo
+https://ai-resume-analyzer-eight-kappa.vercel.app/
+
